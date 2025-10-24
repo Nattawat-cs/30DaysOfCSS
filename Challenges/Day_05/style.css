@@ -3,12 +3,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:pink;
+    background-color:red;
 }
 
 h1 {
     color:#101E53;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     text-align: center;
     font-size: 70px;
     text-shadow: 0 4px 0 whitesmoke,
